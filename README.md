@@ -136,6 +136,7 @@ José Luis Escudero Delv
 ---
 
 ## 🙏 Agradecimientos
+
 Un agradecimiento especial a **Felipe Monzón** por la composición y creación de la música y efectos de sonido del juego.  
 Su trabajo ayudó a dar al proyecto una auténtica atmósfera arcade y completar la experiencia del jugador.
 
