@@ -81,7 +81,7 @@ public class Strat_Game extends JFrame{
 	private int record = 1000;
 	public int score = 0;
 	private int level = 1;
-	private int vidasJugador = 99;
+	private int vidasJugador = 3;
 	private String nombreRecord = "---";
 	
 	private Timer temporizadorPowerUp; 
