@@ -132,7 +132,6 @@ El juego está organizado en **6 clases principales**:
 
 José Luis Escudero Delv
 
----
 
 ---
 
