@@ -128,13 +128,6 @@ El juego está organizado en **6 clases principales**:
 
 ---
 
-👨‍💻 Autor
-
-José Luis Escudero Delv
-
-
----
-
 # 📫 Contacto
 
 📧 Email: **escuderopolojoseluis@gmail.com**
@@ -142,7 +135,6 @@ José Luis Escudero Delv
 🌐 Portfolio: https://megalol-dev.github.io/
 
 💼 LinkedIn: https://linkedin.com/in/jose-luis-escudero-polo
-
 
 📺 YouTube: https://www.youtube.com/@Megalol-dev
 
