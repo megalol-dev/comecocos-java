@@ -136,7 +136,7 @@ El juego está organizado en **6 clases principales**:
 
 💼 LinkedIn: https://linkedin.com/in/jose-luis-escudero-polo
 
-📺 YouTube: https://www.youtube.com/@Megalol-dev
+📺 YouTube: https://youtu.be/3_o1sipq6Po?si=CDCCaBfs46CEmhwv
 
 ---
 
